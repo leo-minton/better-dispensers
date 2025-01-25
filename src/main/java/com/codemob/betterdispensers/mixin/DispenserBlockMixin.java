@@ -1,6 +1,5 @@
-package com.codemob.experiments.mixin;
+package com.codemob.betterdispensers.mixin;
 
-import net.minecraft.client.resources.sounds.Sound;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.core.Holder;

@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.codemob.experiments.mixin",
+  "package": "com.codemob.betterdispensers.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "DispenserBlockMixin"
